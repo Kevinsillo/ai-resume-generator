@@ -1,0 +1,13 @@
+{
+    "webextension": {
+        "nombre": "AI Resume Generator",
+        "descripcion": {
+            "0": "Esta extensión con la ayuda de Google AI Studio, permite resumir contenido de ciertas paginas como noticias, blogs, videos, etc.",
+            "1":  "Sin un API token de Google AI Studio, la extensión no funcionará"
+        },
+        "posicionarse": "Posicionate en una noticia para resumirla mediante inteligencia artificial",
+        "adquirir_api_token": "Adquire gratis tu API token en",
+        "almacenar_token": "Almacenar token",
+        "resumir": "Resumir contenido"
+    }
+}
